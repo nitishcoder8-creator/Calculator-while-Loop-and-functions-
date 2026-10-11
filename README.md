@@ -1,4 +1,4 @@
-# Calculator-while-Loop-and-functio
+# Calculator-while-Loop-and-function
 isme maine loop ko rokne ke liye daal diya hun
 Yeh abhi bhi sirf basic calculator hai
 
